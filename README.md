@@ -13,6 +13,8 @@
 - Currently open to opportunities in Automation Testing / QA Automation
 - Based in India | Available for Remote / Onsite roles
 - Reach me at: radha.c1696@gmail.com
+- 📄 [My Resume](https://file:///C:/Users/rchil/OneDrive/Desktop/Radha%20C%20Test%20Engineer.pdf)
+
 
 ---
 
