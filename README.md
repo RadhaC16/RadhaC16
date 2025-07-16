@@ -27,6 +27,10 @@
   <img src="https://img.shields.io/badge/Maven-%230050A1?style=flat-square&logo=apache-maven&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-%2300758F?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/JIRA-%230052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-%230052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cucumber-%230052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-%230052CC?style=flat-square&logo=jira&logoColor=white" />
+  
 </p>
 
 ---
@@ -45,5 +49,5 @@
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radha.chilke16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/radha-c-244126289) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radha.c1696@gmail.com)
 
