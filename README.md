@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" alt="Testing GIF" width="400"/>
-</p>
-
-
 <h1 align="center">Welcome to Radha C GitHub Profile!</h1>
 
 <p align="center">
