@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Radha</h1>
+<h1 align="center">Welcome to Radha C GitHub Profile!</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RadhaC16&label=Profile%20Views&color=0e75b6&style=flat" alt="RadhaC16" />
@@ -12,7 +12,7 @@
 - Passionate about Selenium, TestNG, Maven, and writing scalable automation frameworks
 - Currently open to opportunities in Automation Testing / QA Automation
 - Based in India | Available for Remote / Onsite roles
-- Reach me at: radha.chilke16@gmail.com
+- Reach me at: radha.c1696@gmail.com
 
 ---
 
