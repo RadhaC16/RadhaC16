@@ -8,13 +8,17 @@
 
 ### About Me
 
-- I’m a QA Engineer with hands-on experience in Manual and Automation Testing
-- Passionate about Selenium, TestNG, Maven, and writing scalable automation frameworks
-- Currently open to opportunities in Automation Testing / QA Automation
-- Based in India | Available for Remote / Onsite roles
-- Reach me at: radha.c1696@gmail.com
-- 📄 [My Resume](https://file:///C:/Users/rchil/OneDrive/Desktop/Radha%20C%20Test%20Engineer.pdf)
+👋 Hi, I'm Radha Chilke – Software Test Engineer with 3 years of experience | Cognizant Technology Solution 
 
+🔍 Based in India | Available for Remote / Onsite roles
+
+🔍 Passionate about building robust Test Automation Frameworks for Web, Mobile, and APIs  
+
+🤝 Currently open to opportunities in Automation Testing / QA Automation
+
+📄 [Download My Resume](https://github.com/your-username/your-repo-name/raw/main/https://drive.google.com/drive/folders/1T_ro5_wqmKmtGl-RBfxZRtnU1s57ulS8)
+
+📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/radha-c-244126289?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0Utr6r5MTqiC1R3Kl3bqAA%3D%3D) | 📧 radha.c1696@gmail.com
 
 ---
 
