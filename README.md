@@ -33,9 +33,9 @@
   <img src="https://img.shields.io/badge/Maven-%230050A1?style=flat-square&logo=apache-maven&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-%2300758F?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/JIRA-%230052CC?style=flat-square&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appium-%230052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-%230052CC?style=flat-square&logo=jira&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Cucumber-%230052CC?style=flat-square&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/JMeter-%230052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-%230052CC?style=flat-square&logo=jira&logoColor=green" />
   
 </p>
 
