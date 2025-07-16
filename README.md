@@ -16,7 +16,11 @@
 
 🤝 Currently open to opportunities in Automation Testing / QA Automation
 
-📄 [Download My Resume](https://github.com/your-username/your-repo-name/raw/main/https://drive.google.com/drive/folders/1T_ro5_wqmKmtGl-RBfxZRtnU1s57ulS8)
+📄 [![Resume](https://img.shields.io/badge/Resume-View-grey?style=for-the-badge)](https://(https://drive.google.com/file/d/1aFYyYvmtLPs-UTpmxxzR8AAEETsZNdnO/view?usp=drive_link)) 
+    [![Download](https://img.shields.io/badge/Download-PDF-brightgreen?style=for-the-badge)](https://[your-resume-link.com](https://drive.google.com/file/d/1aFYyYvmtLPs-UTpmxxzR8AAEETsZNdnO/view?usp=drive_link))
+
+
+
 
 📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/radha-c-244126289?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0Utr6r5MTqiC1R3Kl3bqAA%3D%3D) | 📧 radha.c1696@gmail.com
 
