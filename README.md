@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/RadhaC16/RadhaC16/blob/main/Software%20Tester.gif" alt="Testing GIF" width="400"/>
+</p>
+
+
 <h1 align="center">Welcome to Radha C GitHub Profile!</h1>
 
 <p align="center">
