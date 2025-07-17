@@ -66,6 +66,8 @@ Here are a few highlights from my real-world QA experience:
 
 ---
 
+
+
 ### ⚡ Quick Facts
 
 - ✅ 3+ years of experience in QA (Web, HRMS, Health & Fitness domains)  
