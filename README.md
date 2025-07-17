@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RadhaC16/RadhaC16/blob/main/Software%20Tester.gif" alt="Testing GIF" width="400"/>
+  <img src="https://github.com/RadhaC16/RadhaC16/blob/main/Software%20Tester.gif" alt="Testing GIF" width="800"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Radha Chilke</h1>
